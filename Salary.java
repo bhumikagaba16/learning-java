@@ -1,6 +1,6 @@
 public class Salary {
     public static void main(String[] args) {
-        int salary =25000;
+        int salary =25000;//given salary
         if(salary>=20000){
             salary+=2000;
         }else{
