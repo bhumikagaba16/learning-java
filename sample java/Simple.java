@@ -11,6 +11,7 @@ public class Simple {
             a+=1000;
         }
         System.out.println(a);
+        in.close();
     }
     
 }
