@@ -8,7 +8,7 @@ public class String4 {
 
         System.out.print("Order Name: ");
         String orderName =sc.nextLine();
-
+        //output
         String fullName = customerName+" ordered "+orderName+" from 5 STAR restaurant. ";
 
         System.out.println(fullName);
