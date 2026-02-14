@@ -9,7 +9,9 @@ public class Array1 {
             System.out.println(arr[i]);
         }
 
-        //ya pr 
+        //ya pr Arrays.toString() use krke
+        System.out.println(java.util.Arrays.toString(arr));
+
     }
     
 }
