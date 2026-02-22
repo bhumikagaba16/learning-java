@@ -19,7 +19,6 @@ public class String3 {
                                          .concat(String.valueOf(totalPrice)).concat(".");
 
         // Print the final order summary
-        
-        System.out.println(orderSummary);
+         System.out.println(orderSummary);
     }
 }
