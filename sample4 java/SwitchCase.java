@@ -19,6 +19,7 @@ public class SwitchCase {
                 System.out.println("enter valid value");
                 break;
         }
+        in.close();
     }
     
 }
