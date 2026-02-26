@@ -12,6 +12,8 @@ public class Function2 {
         System.out.println("enter second number");
         int b = in.nextInt();
         int sum = a+b;
+        in.close();
+        
         return sum;
         
         
