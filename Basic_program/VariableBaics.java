@@ -13,6 +13,10 @@ public class VariableBaics {
         System.out.println(y);
         y=7;
         System.out.println(y);
+        y = y + 3;
+        System.out.println(y);
+        y = y - 40;
+        System.out.println(y);
 
     }
     
